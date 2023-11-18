@@ -12,3 +12,6 @@ Let's GO
 
 To be successful in the programming field, you should also have a strong foundation in core programming concepts, like data structures, algorithms, software engineering, testing, debugging, version control, etc. These skills will help you build robust and efficient software solutions. Additionally, learning to communicate effectively with non-technical team members is a valuable skill, as it can help bridge the gap between developers and end-users. 
  - 来自NLP
+
+# 2023-11-18
+- "Today's programming wisdom is to focus on writing clean, maintainable, and modular code. Invest time in planning and designing your software architecture to ensure scalability and ease of development. Remember, code is read more often than it is written, so strive for readability and clarity. And lastly, embrace continuous learning and stay up-to-date with the latest tools, technologies, and best practices in your field."
