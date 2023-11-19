@@ -15,3 +15,6 @@ To be successful in the programming field, you should also have a strong foundat
 
 # 2023-11-18
 - "Today's programming wisdom is to focus on writing clean, maintainable, and modular code. Invest time in planning and designing your software architecture to ensure scalability and ease of development. Remember, code is read more often than it is written, so strive for readability and clarity. And lastly, embrace continuous learning and stay up-to-date with the latest tools, technologies, and best practices in your field."
+
+# 2023-11-19
+- "Keep it simple, stupid!"
