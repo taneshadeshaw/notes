@@ -18,3 +18,6 @@ To be successful in the programming field, you should also have a strong foundat
 
 # 2023-11-19
 - "Keep it simple, stupid!"
+
+# 2023-11-20
+- "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and concise variable names, writing modular and reusable functions, commenting your code thoroughly, and following established coding conventions. Remember, code is read more often than it is written, so make it readable for yourself and others who may need to work on it in the future."
