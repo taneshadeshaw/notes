@@ -24,3 +24,9 @@ To be successful in the programming field, you should also have a strong foundat
 
 # 2023-11-21
 - "Keep it simple, stupid!"
+
+# 2023-11-22
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Make sure you have a plan in place for your projects, including deadlines and milestones. Knowing what you need to accomplish and when will keep you on track and prevent last-minute panic. Planning also includes thinking about potential obstacles and how to overcome them, so you're prepared for anything. 
+ -- 212字
