@@ -30,3 +30,6 @@ To be successful in the programming field, you should also have a strong foundat
 
 Second, planning ahead is crucial. Make sure you have a plan in place for your projects, including deadlines and milestones. Knowing what you need to accomplish and when will keep you on track and prevent last-minute panic. Planning also includes thinking about potential obstacles and how to overcome them, so you're prepared for anything. 
  -- 212字
+
+# 2023-11-23
+- "Today's programming wisdom is to embrace simplicity and readability in your code. Strive to write clean, concise, and well-organized code that is easy to understand and maintain. Remember that code is read more often than it is written, so make it a joy to read for yourself and others who may work on it in the future."
