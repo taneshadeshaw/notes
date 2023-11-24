@@ -33,3 +33,6 @@ Second, planning ahead is crucial. Make sure you have a plan in place for your p
 
 # 2023-11-23
 - "Today's programming wisdom is to embrace simplicity and readability in your code. Strive to write clean, concise, and well-organized code that is easy to understand and maintain. Remember that code is read more often than it is written, so make it a joy to read for yourself and others who may work on it in the future."
+
+# 2023-11-24
+- "Keep it simple, stupid!"
