@@ -39,3 +39,6 @@ Second, planning ahead is crucial. Make sure you have a plan in place for your p
 
 # 2023-11-25
 - "Keep it simple, stupid!"
+
+# 2023-11-26
+- "Keep it simple, stupid!"
