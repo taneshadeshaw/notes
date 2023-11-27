@@ -42,3 +42,10 @@ Second, planning ahead is crucial. Make sure you have a plan in place for your p
 
 # 2023-11-26
 - "Keep it simple, stupid!"
+
+# 2023-11-27
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a strong foundation for your career, allowing you to easily adapt to the ever-changing landscape of technology. Additionally, learning to communicate effectively with others, both within your team and across different disciplines, is crucial for success in any programming role. 
+ 学习新技能并不断更新知识是编程智慧的体现。这意味着要跟上最新的科技、工具和最佳实践。同时，要愿意接受新观念和方法，以及勇于尝试新事物。
+要在编程领域取得成功，深入了解基本原理（如数据结构、算法、计算机架构、操作系统等）至关重要。这些基本知识将为你的职业生涯奠定坚实的基础，帮助你轻松适应不断变化的科技环境。此外，学会与团队成员和不同领域的专家有效沟通也是成功编程的关键。
