@@ -127,3 +127,6 @@ This quote reminds us that while optimizing code for performance is important, i
 5. Stay organized: Keep your workspace clean and organized to reduce the risk of losing your place or wasting time searching for files. Additionally, using task management tools like Trello or Asana can helps you stay on track and make sure all tasks are completed.    
 6. Learn from others: Read blogs, watch tutorials,and participate in online forums to learn new techniques and best practices. Not only will this help improve your own skills, but it can also inspire new ideas and solutions to problems you may encounter.     
 7. Practice continuous learning: Technology is constantly evolving, so it' s essential to keep up with new developments and learn as much as possible. Dedicate time each week to learning new skills or exploring new tools and technologies.
+
+# 2023-12-15
+- "Keep it simple, stupid!"
