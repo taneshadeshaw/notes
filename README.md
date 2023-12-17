@@ -135,3 +135,8 @@ This quote reminds us that while optimizing code for performance is important, i
 - Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means understanding the principles of software development and design, as well as the best practices for writing efficient, maintainable,and scalable code.
 
 To achieve this, you should focus on problem-solving and critical thinking skills, which will help you adapt to new challenges and develop innovative solutions. Additionally, it' s important to understand the importance of collaboration and communication in a team environment, working with others to achieve common goals. Finally, don't forget to take breaks and care for your mental health, ensuring that you remain focused and motivated in your work.
+
+# 2023-12-17
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that while optimizing code for performance is important, it should not be done too early in the development process. It's better to write clear and maintainable code first, and then optimize only if necessary, based on profiling and measurements. Otherwise, we risk wasting time and effort optimizing parts of the code that don't actually need it, or making the code more complex and harder to understand in the pursuit of small performance gains.
