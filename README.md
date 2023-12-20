@@ -150,3 +150,8 @@ Optimizing code before it's necessary can lead to complex, hard-to-maintain code
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, determine which tasks are most important and which can be completed later. Then, break down each task into smaller, manageable steps. By organizing your code and your workflow, you will find it easier to troubleshoot and make improvements.
 
 Remember to take breaks and avoid multitasking, as this can lead to distractions and decreased efficiency. Use version control, like Git, to keep track of your changes and collaborate with others. Always keep learning and staying up-to-date with the latest programming languages and tools. Finally, don't be afraid to ask for help or search for resources online when you run into a problem. There is always someone willing to share their knowledge and experience.
+
+# 2023-12-20
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+It means that trying to optimize code too early in the development process can lead to unnecessary complexity, bugs, and wasted time. It's better to write clean, simple code first and then optimize only where necessary, based on profiling and measurement.
