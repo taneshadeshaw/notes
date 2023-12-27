@@ -190,3 +190,6 @@ In essence, keep it simple, avoid unnecessary complications, and focus on writin
 1. Prioritize tasks: When you're working on a project, it'ss important to determine which tasks are most critical and should be completed first. By prioritizing your tasks in this way, you can ensure that you focus on the most important aspects of your project.
 2. Plan ahead: By planning ahead for your projects,you can avoid last-minute panic and ensurethat you have enough time to complete all of the tasks that are required. Create a schedule for each project that includes deadlines and milestones, so thatyou have a clear idea of what needs tobe done and when. 
 3. Stay organized: Keeping your workspace and code organized is crucial for success. Use version control systems, like Git, to track your code and make sure that allof your files are up-to-date. Additionally, organize your folders and files in a way that makes sense to you, making it easy to find and work on different aspectsofyour project .
+
+# 2023-12-27
+- "Keep it simple, stupid!"
