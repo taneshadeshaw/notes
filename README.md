@@ -323,3 +323,6 @@ In more detail, this quote emphasizes that trying to optimize code too early, wi
 
 Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Having a clear plan will keep you focused and help prevent you from getting lost in the details. Planning also allows you time to consider potential obstacles and find solutions before they become problems. 
  - 来自n.p.m.
+
+# 2024-01-22
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. In coding, strive for clarity and simplicity in your solutions. Avoid unnecessary complexity; write code that's easy to read, understand, and maintain. Remember, you're not just writing code for computers but also for fellow human beings who will interact with it. Optimize for readability and modularity, and embrace the iterative process of refactoring to keep your codebase clean and efficient."
