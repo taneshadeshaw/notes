@@ -467,3 +467,6 @@ This quote from computer scientist Donald Knuth emphasizes the importance of avo
 6. Practice good programming practices like writing clean, readable code, commenting your codes, using appropriate data structures, following coding conventions, avoiding code duplication, writing modular and reusable code.     
 7. Participate in open source projects and contribute to them to improve both your skills and your portfolio.      
 8. Attend workshops, seminars, conferences, meetups, online courses, tutorials, blogs, forums, podcasts, YouTube channels, Stack Overflow, GitHub, Dev.to, Medium, Reddit, Quora, LinkedIn, Twitter, Facebook, Slack, Discord, WhatsApp, WeChat, Telegram, Signal, Viber, Whatsapp, Line, Kik, BBM, iMessage, Snapchat, Skype, Zoom, Microsoft Teams, Google Meet, Amazon Chime, Cisco Webex, GoToMeeting, Zoho Meeting, Join.me, Pexip, Tencent Meeting. These platforms will keep you updated with new technologies and help in networking with other professionals.
+
+# 2024-02-21
+- "Keep it simple, stupid!"
